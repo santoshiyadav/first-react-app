@@ -25,6 +25,7 @@ export default function Home() {
               priority
             />
           </a>
+          <h1>santoshi yadav</h1>
         </div>
       </div>
 
